@@ -1,0 +1,14 @@
+C:\Users\Gabriel\Desktop\Ataque_RSA\Ataque_RSA\Ataque_RSA\bin\Debug\Ataque_RSA.exe.config
+C:\Users\Gabriel\Desktop\Ataque_RSA\Ataque_RSA\Ataque_RSA\bin\Debug\Ataque_RSA.exe
+C:\Users\Gabriel\Desktop\Ataque_RSA\Ataque_RSA\Ataque_RSA\bin\Debug\Ataque_RSA.pdb
+C:\Users\Gabriel\Desktop\Ataque_RSA\Ataque_RSA\Ataque_RSA\obj\Debug\Ataque_RSA.csprojAssemblyReference.cache
+C:\Users\Gabriel\Desktop\Ataque_RSA\Ataque_RSA\Ataque_RSA\obj\Debug\Ataque_RSA.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\Desktop\Ataque_RSA\Ataque_RSA\Ataque_RSA\obj\Debug\Ataque_RSA.exe
+C:\Users\Gabriel\Desktop\Ataque_RSA\Ataque_RSA\Ataque_RSA\obj\Debug\Ataque_RSA.pdb
+C:\Users\Gabriel\Desktop\Criptografia\Ataque_RSA\Ataque_RSA\Ataque_RSA\bin\Debug\Ataque_RSA.exe.config
+C:\Users\Gabriel\Desktop\Criptografia\Ataque_RSA\Ataque_RSA\Ataque_RSA\bin\Debug\Ataque_RSA.exe
+C:\Users\Gabriel\Desktop\Criptografia\Ataque_RSA\Ataque_RSA\Ataque_RSA\bin\Debug\Ataque_RSA.pdb
+C:\Users\Gabriel\Desktop\Criptografia\Ataque_RSA\Ataque_RSA\Ataque_RSA\obj\Debug\Ataque_RSA.csprojAssemblyReference.cache
+C:\Users\Gabriel\Desktop\Criptografia\Ataque_RSA\Ataque_RSA\Ataque_RSA\obj\Debug\Ataque_RSA.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\Desktop\Criptografia\Ataque_RSA\Ataque_RSA\Ataque_RSA\obj\Debug\Ataque_RSA.exe
+C:\Users\Gabriel\Desktop\Criptografia\Ataque_RSA\Ataque_RSA\Ataque_RSA\obj\Debug\Ataque_RSA.pdb
