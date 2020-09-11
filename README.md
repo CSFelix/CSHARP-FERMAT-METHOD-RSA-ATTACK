@@ -42,3 +42,12 @@
 1 >> prime factoration with Fermat's Method (you need to choice the RSA's value. RSA's value is the multiplication of the two prime numbers used to generate the public and the private key)
 2 >> calcs the private key (you need to choice two prime numbers and a public key)
 ```
+
+----
+### `✉️ Contact ✉️`
+
+> **Email:** `gabrielfelix08@outlook.com`
+
+> **Linkedin:** `---`
+
+> **Instagram:** `---`
